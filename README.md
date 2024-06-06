@@ -1,1 +1,1 @@
-# infection_simulation
+# infection_simulation_model
